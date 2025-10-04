@@ -17,19 +17,28 @@ Roughly plan and sketch a map of the environment that contains 2 minutes of game
 - A goal that the player must attain (this could be objects or items to collect or an exit to reach).
 
 Mark these clearly on your sketch. Think about furniture and props that you might want to include (don’t worry about the specific object details at this point).
- 
-## Task 2: Building the level
+## Task 2: Unpacking assets and textures
+This project has various bits and pieces that might help build the scene you have planned in task 1.
+
+- Sample scene in the scenes folder
+- The modular corridors and furniture models in the models folder
+- You can unpack the corridors prefab by right clicking it in the hierarchy view -> Prefab -> Unpack completely
+- Materials for all the objects can be dragged directly onto the game objects in the scene. 
+
+## Task 3: Building the level
 Use the corridor assets provided to build your level, following the map you have designed. Remember that you can align objects using their transforms. The Grid Snapping option button allows you to snap objects to the grid. Additional options can be found under Edit > Grid and Snap settings. 
 
  ![image](https://user-images.githubusercontent.com/5978932/194539613-27c379b8-4dc4-4b15-95fb-873ceb14eb7b.png)
 
-Once you have finished building the level, test it out by importing a FPS controller into your project. Walk through the environment and see how long it takes without any props or objects. You may need to scale down the size of the standard FPS controller if it does not fit through the doors! 
+Once you have finished building the level, test it out by importing a FPS controller into your project. You can copy the standard assets folder from a previous practical or search for standard assets FPS controller in the Unity Asset Store. 
 
-## Task 3: Blocking out 
+Walk through the environment and see how long it takes without any props or objects. You may need to scale down the size of the standard FPS controller if it does not fit through the doors! 
+
+## Task 4: Blocking out 
 Now that you have a walkable environment, think about “extras” like furniture, monsters and props that you might want to add. Using the primitive objects provided by Unity, block out your level. Test out your level to ensure your extras aren’t stopping the player from progressing through the level. 
 
-## Task 4: Blocks to ‘real’ objects
-Browse the Unity store for free 3D assets that you could add to your level. You can also try and create them in Maya! Think about what kind of environment you are designing. Is there a specific aesthetic you are looking for? Task 3 should have helped you in knowing what size and shape of object you are looking to add. Replace your primitive blocks with these assets. You should now have a fully designed, indoor scene. Play through it or ask us to walk through it to see how a new player reacts to your environment. 
+## Task 5: Blocks to ‘real’ objects
+Browse the Unity store for free 3D assets that you could add to your level. You can also try and create them in Blender! Think about what kind of environment you are designing. Is there a specific aesthetic you are looking for? Task 3 should have helped you in knowing what size and shape of object you are looking to add. Replace your primitive blocks with these assets. You should now have a fully designed, indoor scene. Play through it or ask us to walk through it to see how a new player reacts to your environment. 
 
 ## Optional extensions: 
 - Could you import your indoor environment into your terrain scene from last week’s practical? Are there any modifications that need to be made? 
