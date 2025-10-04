@@ -29,7 +29,7 @@ Once you have finished building the level, test it out by importing a FPS contro
 Now that you have a walkable environment, think about “extras” like furniture, monsters and props that you might want to add. Using the primitive objects provided by Unity, block out your level. Test out your level to ensure your extras aren’t stopping the player from progressing through the level. 
 
 ## Task 4: Blocks to ‘real’ objects
-Browse the Unity store for free 3D assets that you could add to your level. You can also try and create them in Maya! Think about what kind of environment you are designing. Is there a specific aesthetic you are looking for? Task 3 should have helped you in knowing what size and shape of object you are looking to add. Replace your primitive blocks with these assets. You should now have a fully designed, indoor scene. Play through it or ask us to walk through it to see how a new player reacts to your environment. 
+Browse the Unity store for free 3D assets that you could add to your level. You can also try and create them in Blender! Think about what kind of environment you are designing. Is there a specific aesthetic you are looking for? Task 3 should have helped you in knowing what size and shape of object you are looking to add. Replace your primitive blocks with these assets. You should now have a fully designed, indoor scene. Play through it or ask us to walk through it to see how a new player reacts to your environment. 
 
 ## Optional extensions: 
 - Could you import your indoor environment into your terrain scene from last week’s practical? Are there any modifications that need to be made? 
