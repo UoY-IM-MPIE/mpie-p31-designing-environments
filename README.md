@@ -20,7 +20,7 @@ Mark these clearly on your sketch. Think about furniture and props that you migh
 ## Task 2: Unpacking assets and textures
 This project has various bits and pieces that might help build the scene you have planned in task 1.
 
-- Sample scene in the scenes folder
+- Lab scene as an example in the scenes folder. Sample Scene left empty for your creations! 
 - The modular corridors and furniture models in the models folder
 - You can unpack the corridors prefab by right clicking it in the hierarchy view -> Prefab -> Unpack completely
 - Materials for all the objects can be dragged directly onto the game objects in the scene. 
@@ -38,7 +38,7 @@ Walk through the environment and see how long it takes without any props or obje
 Now that you have a walkable environment, think about “extras” like furniture, monsters and props that you might want to add. Using the primitive objects provided by Unity, block out your level. Test out your level to ensure your extras aren’t stopping the player from progressing through the level. 
 
 ## Task 5: Blocks to ‘real’ objects
-Browse the Unity store for free 3D assets that you could add to your level. You can also try and create them in Blender! Think about what kind of environment you are designing. Is there a specific aesthetic you are looking for? Task 3 should have helped you in knowing what size and shape of object you are looking to add. Replace your primitive blocks with these assets. You should now have a fully designed, indoor scene. Play through it or ask us to walk through it to see how a new player reacts to your environment. 
+You can use the furniture models provided to start with. Then either browse the Unity store for free 3D assets that you could add to your level or create them in Blender! Think about what kind of environment you are designing. Is there a specific aesthetic you are looking for? Task 3 should have helped you in knowing what size and shape of object you are looking to add. Replace your primitive blocks with these assets. You should now have a fully designed, indoor scene. Play through it or ask us to walk through it to see how a new player reacts to your environment. 
 
 ## Optional extensions: 
 - Could you import your indoor environment into your terrain scene from last week’s practical? Are there any modifications that need to be made? 
